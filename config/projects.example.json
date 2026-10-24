@@ -1,0 +1,10 @@
+{
+  "projects": [
+    {
+      "name": "Example project",
+      "identifier": "EXAMPLE",
+      "id": "00000000-0000-0000-0000-000000000000",
+      "paths": ["/absolute/path/to/your/repository"]
+    }
+  ]
+}
