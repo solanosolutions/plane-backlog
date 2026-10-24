@@ -39,6 +39,13 @@ An agent can understand an idea, but that does not mean it should silently decid
 | 🔐 **Secret-aware** | Uses environment injection, ignores `.env`, escapes descriptions and never executes issue text. |
 | 🌎 **Agent-friendly** | Package the same `SKILL.md` in Codex, Claude-based or Antigravity-style skill directories. |
 
+## 🧰 Requirements
+
+- Python 3.10 or newer.
+- A self-hosted Plane instance reachable from the agent runtime.
+- A Plane personal API token with project write access.
+- A sanitized project mapping in `config/projects.json`.
+
 ## 📥 Installation
 
 ### 1. Copy the skill
