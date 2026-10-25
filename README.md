@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/plane-backlog.svg" width="96" alt="Plane Backlog Skill icon" />
+<img src="assets/plane-backlog-logo.png" width="112" alt="Plane Backlog Skill logo" />
 
 # Plane Backlog Skill
 
@@ -13,7 +13,7 @@ Capture ideas from Codex, Claude, Antigravity or another skill-capable agent and
 [![Plane](https://img.shields.io/badge/Plane-self--hosted-6C5CE7?style=for-the-badge)](#-requirements)
 [![Stars](https://img.shields.io/github/stars/solanosolutions/plane-backlog?style=for-the-badge&color=f5c518)](https://github.com/solanosolutions/plane-backlog/stargazers)
 
-<img src="assets/demo-placeholder.svg" width="760" alt="Placeholder showing an agent dry-run becoming a Plane backlog item" />
+<img src="assets/codex-plane-flow.png" width="760" alt="Fictional Codex to Plane backlog flow demo" />
 
 [**Install**](#-installation) · [Features](#-features) · [How it works](#-how-it-works) · [Security](#-security) · [FAQ](#-faq) · [Roadmap](#-roadmap)
 
@@ -38,6 +38,22 @@ An agent can understand an idea, but that does not mean it should silently decid
 | 🧼 **Standard library** | Python 3.10+ with no third-party runtime dependency. |
 | 🔐 **Secret-aware** | Uses environment injection, ignores `.env`, escapes descriptions and never executes issue text. |
 | 🌎 **Agent-friendly** | Package the same `SKILL.md` in Codex, Claude-based or Antigravity-style skill directories. |
+
+## 👀 See it in action
+
+The screenshots below are synthetic product demos with fictional data. They show the intended relationship between the skill and the system it feeds: an agent receives a natural-language idea, creates a verified work item, and the idea appears in a self-hosted Plane backlog.
+
+<p align="center">
+<img src="assets/plane-board-demo.png" width="920" alt="Fictional Plane board filled with agent skill backlog cards" />
+</p>
+
+<p align="center"><sub>Fictional Plane board · all projects, cards and identifiers are demo data.</sub></p>
+
+<p align="center">
+<img src="assets/codex-plane-flow.png" width="920" alt="Fictional Codex request connected to a verified Plane backlog card" />
+</p>
+
+<p align="center"><sub>Conceptual Codex → Plane flow · not a capture of a real account or workspace.</sub></p>
 
 ## 🧰 Requirements
 
