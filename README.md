@@ -177,7 +177,7 @@ If this skill keeps your agent's backlog tidy, **[give the repository a star](ht
 ---
 
 <div align="center">
-<sub>Made with 🧠 and 🛠️ by <a href="https://github.com/solanosolutions">Solano AI</a> · MIT License</sub>
+<sub>Made with 🧠 and 🛠️ by <a href="https://github.com/solanosolutions">Lucas Solano</a> · MIT License</sub>
 <br><br>
 <sub>Plane Backlog Skill is an independent open-source project and is not affiliated with, endorsed by, or sponsored by Plane.</sub>
 </div>
