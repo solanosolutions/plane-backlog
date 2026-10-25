@@ -50,6 +50,12 @@ The screenshots below are synthetic product demos with fictional data. They show
 <p align="center"><sub>Fictional Plane board · all projects, cards and identifiers are demo data.</sub></p>
 
 <p align="center">
+<img src="assets/plane-board-demo-light.png" width="920" alt="Fictional light-mode Plane board filled with agent skill backlog cards" />
+</p>
+
+<p align="center"><sub>Light-mode variation using the same fictional Agent Skills Lab project.</sub></p>
+
+<p align="center">
 <img src="assets/codex-plane-flow.png" width="920" alt="Fictional Codex request connected to a verified Plane backlog card" />
 </p>
 
